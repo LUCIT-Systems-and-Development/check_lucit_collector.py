@@ -1,4 +1,4 @@
-# check_binance_websocket_api_manager
+# check_unicorn_monitoring_api
 
 [ICINGA](https://icinga.com)/[Nagios](https://www.nagios.com) check_command 
 '[check_unicorn_monitoring_api.py](https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api)' for the 
