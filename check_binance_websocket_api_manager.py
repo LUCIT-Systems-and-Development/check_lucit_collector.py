@@ -37,20 +37,24 @@ from argparse import ArgumentParser
 import argparse
 import requests
 import textwrap
+import time
 import urllib3
 
 
+VERSION = "0.1.0"
+
+
 def status_unkown():
-    print("BINANCE WEBSOCKETS - UNKNOWN: not connected!")
+    print("SERVICE STATUS - UNKNOWN: not connected!")
     exit(3)
 
 
 parser = ArgumentParser(formatter_class=argparse.RawDescriptionHelpFormatter,
-                        description=textwrap.dedent("ICINGA/Nagios compatible check_command for the Binance Websocket"
-                                                    " API Manager https://github.com/unicorn-data-analysis/unicorn-"
-                                                    "binance-websocket-api\r\n\r\nexamples:\r\n./check_binance_"
-                                                    "websocket_api_manager\r\n./check_binance_websocket_api_manager.py "
-                                                    "-H 192.168.1.10 -P 5000\r\n./check_binance_websocket_api_manager.py"
+                        description=textwrap.dedent("ICINGA/Nagios compatible check_command for the UNICORN Monitoring "
+                                                    "API https://github.com/unicorn-data-analysis/check_unicorn_monito"
+                                                    "ring_api\r\n\r\nexamples:\r\n./check_unicorn_monitoring_api.py\r\n"
+                                                    "./check_unicorn_monitoring_api.py -H 192.168.1.10 -P 5000\r\n"
+                                                    "./check_binance_websocket_api_manager.py"
                                                     " -V"))
 parser.add_argument('-H', '--hostname', dest='hostname', help='host name or ip address (default: 127.0.0.1)',
                     default="127.0.0.1")
@@ -61,7 +65,8 @@ parser.add_argument('-V', '--version', dest='version', help='print version infor
 parsed_args = parser.parse_args()
 
 if parsed_args.version is True:
-    print("check_binance_websocket_api_manager.py 0.1.2 for ICINGA/Nagios by UNICORN Data Analysis 2019")
+    print("check_unicorn_monitoring_api.py " + VERSION + " for ICINGA/Nagios by UNICORN Data Analysis 2019 - " +
+          time.strftime("%Y"))
     exit(0)
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -78,7 +83,7 @@ else:
 
 try:
     respond = requests.get(protocol + '://' + str(parsed_args.hostname) + ':' +
-                           str(parsed_args.port) + '/status/icinga', verify=verify)
+                           str(parsed_args.port) + '/status/icinga/' + str(VERSION), verify=verify)
     status = respond.json()
     if status['text']:
         print(status['text'])
