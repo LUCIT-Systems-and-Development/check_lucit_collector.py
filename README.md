@@ -1,5 +1,5 @@
-![GitHub release](https://img.shields.io/github/release/unicorn-data-analysis/unicorn-binance-websocket-api.svg) 
-![GitHub](https://img.shields.io/github/license/unicorn-data-analysis/unicorn-binance-websocket-api.svg?color=blue) 
+![GitHub release](https://img.shields.io/github/release/unicorn-data-analysis/check_unicorn_monitoring_api.svg) 
+![GitHub](https://img.shields.io/github/license/unicorn-data-analysis/check_unicorn_monitoring_api.svg?color=blue) 
 ![code coverage 100%](https://img.shields.io/badge/coverage-100%25-brightgreen.svg) 
 
 # check_unicorn_monitoring_api
