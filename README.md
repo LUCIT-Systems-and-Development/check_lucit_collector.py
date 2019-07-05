@@ -6,6 +6,6 @@ Monitoring API can connect to this restful API service, collect the data and del
 
 Requirements are listed in [requirements.txt](https://github.com/unicorn-data-analysis/unicorn-binance-websocket-api/blob/master/tools/icinga/requirements.txt)
 
-Download the latest stable release from https://exchange.icinga.com/bithon/check_binance_websocket_api_manager/releases
+Download the latest stable release from https://exchange.icinga.com/bithon/check_unicorn_monitoring_api/releases
 
 Run `./check_binance_websocket_api_manager -h` for further information!
