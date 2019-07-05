@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# File: tools/icinga/check_binance_websocket_api_manager.py
+# File: check_unicorn_monitoring_api.py
 #
-# Part of ‘UNICORN Binance WebSocket API’
-# Project website: https://github.com/unicorn-data-analysis/unicorn-binance-websocket-api
-# Documentation: https://www.unicorn-data.com/unicorn-binance-websocket-api.html
-# PyPI: https://pypi.org/project/unicorn-binance-websocket-api/
+# Part of ‘check_unicorn_monitoring_api’
+# Project website: https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api
 #
 # Author: UNICORN Data Analysis
 #         https://www.unicorn-data.com/
