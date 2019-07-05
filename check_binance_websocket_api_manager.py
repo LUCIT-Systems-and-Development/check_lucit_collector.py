@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# File: tools/icinga/check_binance_websocket_api_manager
+# File: tools/icinga/check_binance_websocket_api_manager.py
 #
 # Part of ‘UNICORN Binance WebSocket API’
 # Project website: https://github.com/unicorn-data-analysis/unicorn-binance-websocket-api
@@ -49,8 +49,8 @@ parser = ArgumentParser(formatter_class=argparse.RawDescriptionHelpFormatter,
                         description=textwrap.dedent("ICINGA/Nagios compatible check_command for the Binance Websocket"
                                                     " API Manager https://github.com/unicorn-data-analysis/unicorn-"
                                                     "binance-websocket-api\r\n\r\nexamples:\r\n./check_binance_"
-                                                    "websocket_api_manager\r\n./check_binance_websocket_api_manager "
-                                                    "-H 192.168.1.10 -P 5000\r\n./check_binance_websocket_api_manager"
+                                                    "websocket_api_manager\r\n./check_binance_websocket_api_manager.py "
+                                                    "-H 192.168.1.10 -P 5000\r\n./check_binance_websocket_api_manager.py"
                                                     " -V"))
 parser.add_argument('-H', '--hostname', dest='hostname', help='host name or ip address (default: 127.0.0.1)',
                     default="127.0.0.1")
@@ -61,7 +61,7 @@ parser.add_argument('-V', '--version', dest='version', help='print version infor
 parsed_args = parser.parse_args()
 
 if parsed_args.version is True:
-    print("check_binance_websocket_api_manager 0.1.2 for ICINGA/Nagios by UNICORN Data Analysis 2019")
+    print("check_binance_websocket_api_manager.py 0.1.2 for ICINGA/Nagios by UNICORN Data Analysis 2019")
     exit(0)
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
