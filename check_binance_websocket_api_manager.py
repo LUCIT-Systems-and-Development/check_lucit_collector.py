@@ -39,7 +39,7 @@ import time
 import urllib3
 
 
-VERSION = "0.1.0"
+VERSION = "0.1.0.dev"
 
 
 def status_unkown():
