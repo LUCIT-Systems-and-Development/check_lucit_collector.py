@@ -2,7 +2,6 @@
 ![GitHub](https://img.shields.io/github/license/unicorn-data-analysis/check_unicorn_monitoring_api.svg?color=blue) 
 ![python 3](https://img.shields.io/badge/python-3-blue.svg)
 ![code coverage 100%](https://img.shields.io/badge/coverage-100%25-brightgreen.svg) 
-![stable](https://s3.gifyu.com/images/stable-shield.png)
 
 # check_unicorn_monitoring_api
 
