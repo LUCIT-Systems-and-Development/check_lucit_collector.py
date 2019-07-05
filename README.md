@@ -1,3 +1,7 @@
+![GitHub release](https://img.shields.io/github/release/unicorn-data-analysis/unicorn-binance-websocket-api.svg) 
+![GitHub](https://img.shields.io/github/license/unicorn-data-analysis/unicorn-binance-websocket-api.svg?color=blue) 
+![code coverage 100%](https://img.shields.io/badge/coverage-100%25-brightgreen.svg) 
+
 # check_unicorn_monitoring_api
 
 [ICINGA](https://icinga.com)/[Nagios](https://www.nagios.com) check_command 
@@ -7,7 +11,9 @@
 Requirements are listed in 
 [requirements.txt](https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api/blob/master/requirements.txt)
 
-Download the latest stable release from https://exchange.icinga.com/bithon/check_unicorn_monitoring_api/releases
+Download the latest stable release from:
+- https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api/releases/latest
+- https://exchange.icinga.com/bithon/check_unicorn_monitoring_api/releases
 
 Run `./check_binance_websocket_api_manager.py -h` for further information!
 
