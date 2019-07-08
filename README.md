@@ -22,4 +22,4 @@ Install dependencies `python -m pip install -r requirements.txt`!
 Run `./check_binance_websocket_api_manager.py -h` for further information!
 
 Used by:
-- [UNICORN Binance WebSocket API](https://github.com/unicorn-data-analysis/unicorn-binance-websocket-api)
+- [UNICORN Binance WebSocket API](https://github.com/unicorn-data-analysis/unicorn-binance-websocket-api) ([Wiki](https://github.com/unicorn-data-analysis/unicorn-binance-websocket-api/wiki/UNICORN-Monitoring-API-Service))
