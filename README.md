@@ -17,6 +17,8 @@ Download the latest stable release from:
 - https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api/releases/latest
 - https://exchange.icinga.com/bithon/check_unicorn_monitoring_api/releases
 
+Install dependencies `python -m pip install -r requirements.txt`!
+
 Run `./check_binance_websocket_api_manager.py -h` for further information!
 
 Used by:

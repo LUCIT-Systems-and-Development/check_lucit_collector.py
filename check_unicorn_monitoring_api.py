@@ -37,7 +37,7 @@ import requests
 import textwrap
 import time
 import urllib3
-
+import simplejson
 
 VERSION = "0.1.0"
 
@@ -91,4 +91,6 @@ try:
 except requests.exceptions.ConnectionError:
     status_unkown()
 except KeyError:
+    status_unkown()
+except simplejson.errors.JSONDecodeError:
     status_unkown()
