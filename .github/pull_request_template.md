@@ -41,7 +41,7 @@
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
 - [ ] I have read the 
-**[CONTRIBUTING](https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api/blob/master/CONTRIBUTING.md)** 
+**[CONTRIBUTING](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/blob/master/CONTRIBUTING.md)** 
 document.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.

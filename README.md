@@ -1,5 +1,5 @@
-![GitHub release](https://img.shields.io/github/release/unicorn-data-analysis/check_unicorn_monitoring_api.svg) 
-![GitHub](https://img.shields.io/github/license/unicorn-data-analysis/check_unicorn_monitoring_api.svg?color=blue) 
+![GitHub release](https://img.shields.io/github/release/oliver-zehentleitner/check_unicorn_monitoring_api.svg) 
+![GitHub](https://img.shields.io/github/license/oliver-zehentleitner/check_unicorn_monitoring_api.svg?color=blue) 
 ![python 3](https://img.shields.io/badge/python-3-blue.svg)
 ![code coverage 100%](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
 ![stable](https://img.shields.io/badge/status-stable-brightgreen.svg)
@@ -7,14 +7,14 @@
 # check_unicorn_monitoring_api
 
 [ICINGA](https://icinga.com)/[Nagios](https://www.nagios.com) check_command 
-'[check_unicorn_monitoring_api.py](https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api)' for the 
+'[check_unicorn_monitoring_api.py](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api)' for the 
 `UNICORN Monitoring API` can connect to the API service, collect the data and deliver it to the ICINGA/Nagios system.
 
 Requirements are listed in 
-[requirements.txt](https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api/blob/master/requirements.txt)
+[requirements.txt](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/blob/master/requirements.txt)
 
 Download the latest stable release from:
-- https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api/releases/latest
+- https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/releases/latest
 - https://exchange.icinga.com/bithon/check_unicorn_monitoring_api/releases
 
 Install dependencies with `python -m pip install -r requirements.txt`!
@@ -22,4 +22,4 @@ Install dependencies with `python -m pip install -r requirements.txt`!
 Run `./check_binance_websocket_api_manager.py -h` for further information!
 
 Used by:
-- [UNICORN Binance WebSocket API](https://github.com/unicorn-data-analysis/unicorn-binance-websocket-api) ([Wiki](https://github.com/unicorn-data-analysis/unicorn-binance-websocket-api/wiki/UNICORN-Monitoring-API-Service))
+- [UNICORN Binance WebSocket API](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api) ([Wiki](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api/wiki/UNICORN-Monitoring-API-Service))

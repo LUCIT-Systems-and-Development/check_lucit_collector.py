@@ -4,7 +4,7 @@
 # File: check_unicorn_monitoring_api.py
 #
 # Part of ‘check_unicorn_monitoring_api’
-# Project website: https://github.com/unicorn-data-analysis/check_unicorn_monitoring_api
+# Project website: https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api
 #
 # Author: UNICORN Data Analysis
 #         https://www.unicorn-data.com/
@@ -48,7 +48,7 @@ def status_unkown():
 
 parser = ArgumentParser(formatter_class=argparse.RawDescriptionHelpFormatter,
                         description=textwrap.dedent("ICINGA/Nagios compatible check_command for the UNICORN Monitoring "
-                                                    "API https://github.com/unicorn-data-analysis/check_unicorn_monito"
+                                                    "API https://github.com/oliver-zehentleitner/check_unicorn_monito"
                                                     "ring_api\r\n\r\nexamples:\r\n./check_unicorn_monitoring_api.py\r\n"
                                                     "./check_unicorn_monitoring_api.py -H 192.168.1.10 -P 5000\r\n"
                                                     "./check_binance_websocket_api_manager.py"
