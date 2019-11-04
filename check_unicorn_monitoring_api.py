@@ -6,8 +6,8 @@
 # Part of ‘check_unicorn_monitoring_api’
 # Project website: https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api
 #
-# Author: UNICORN Data Analysis
-#         https://www.unicorn-data.com/
+# Author: Oliver Zehentleitner
+#         https://about.me/oliver-zehentleitner
 #
 # Copyright (c) 2019, UNICORN Data Analysis
 # All rights reserved.
