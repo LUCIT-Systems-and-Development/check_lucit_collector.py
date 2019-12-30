@@ -22,3 +22,6 @@ Run `./check_binance_websocket_api_manager.py -h` for further information!
 
 Used by:
 - [UNICORN Binance WebSocket API](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api) ([Wiki](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api/wiki/UNICORN-Monitoring-API-Service))
+
+If you like the project, please [![star](https://s3.gifyu.com/images/stard237b3003af9f9a9.png)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/stargazers) it on 
+[GitHub](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api)! 
