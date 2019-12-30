@@ -1,8 +1,7 @@
-![GitHub release](https://img.shields.io/github/release/oliver-zehentleitner/check_unicorn_monitoring_api.svg) 
-![GitHub](https://img.shields.io/github/license/oliver-zehentleitner/check_unicorn_monitoring_api.svg?color=blue) 
-![python 3](https://img.shields.io/badge/python-3-blue.svg)
-![code coverage 100%](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
-![stable](https://img.shields.io/badge/status-stable-brightgreen.svg)
+[![GitHub release](https://img.shields.io/github/release/oliver-zehentleitner/check_unicorn_monitoring_api.svg)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/releases/latest)
+[![GitHub](https://img.shields.io/github/license/oliver-zehentleitner/check_unicorn_monitoring_api.svg?color=blue)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/blob/master/LICENSE)
+[![python 3](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/downloads/)
+[![stable](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/issues)
 
 # check_unicorn_monitoring_api
 
