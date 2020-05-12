@@ -2,6 +2,7 @@
 [![GitHub](https://img.shields.io/github/license/oliver-zehentleitner/check_unicorn_monitoring_api.svg?color=blue)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/blob/master/LICENSE)
 [![python 3](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/downloads/)
 [![stable](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/issues)
+[![Telegram](https://img.shields.io/badge/chat-telegram-red.svg)](https://t.me/unicorndevs)
 [![Donations/week](http://img.shields.io/liberapay/receives/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
 [![Patrons](http://img.shields.io/liberapay/patrons/oliver-zehentleitner.svg?logo=liberapay")](https://liberapay.com/oliver-zehentleitner/donate)
 
