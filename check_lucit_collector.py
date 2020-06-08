@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# File: check_unicorn_monitoring_api.py
+# File: check_lucit_collector.py
 #
-# Part of ‘check_unicorn_monitoring_api’
-# Project website: https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api
+# Part of ‘check_lucit_collector’
+# Project website: https://github.com/LUCIT-Development/check_lucit_collector.py
 #
-# Author: Oliver Zehentleitner
-#         https://about.me/oliver-zehentleitner
+# Author: LUCIT
+#         https://www.lucit.co
 #
-# Copyright (c) 2019, UNICORN Data Analysis
+# Copyright (c) 2020, LUCIT
 # All rights reserved.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
