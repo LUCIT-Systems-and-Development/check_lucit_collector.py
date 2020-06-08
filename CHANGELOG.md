@@ -1,4 +1,4 @@
-# check_unicorn_monitoring_api Change Log
+# check_lucit_collector.py Change Log
 
 All notable changes to this project will be documented in this file.
 
