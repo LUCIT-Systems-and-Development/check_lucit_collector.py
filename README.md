@@ -3,7 +3,7 @@
 [![python 3](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/downloads/)
 [![stable](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://github.com/LUCIT-Development/check_lucit_collector.py/issues)
 
-# check_unicorn_monitoring_api
+# check_lucit_collector.py
 [ICINGA](https://icinga.com)/[Nagios](https://www.nagios.com) check_command 
 '[check_lucit_collector.py](https://github.com/LUCIT-Development/check_lucit_collector.py)' can connect to an API service, to collect the data and deliver it to the ICINGA/Nagios system.
 
