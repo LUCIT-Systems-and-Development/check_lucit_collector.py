@@ -28,7 +28,7 @@ If you like the project, please [![star](https://s3.gifyu.com/images/stard237b30
 [GitHub](https://github.com/LUCIT-Development/check_lucit_collector.py)! 
 
 ## Contributing
-[check_unicorn_monitoring_api](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api) is an open 
+[check_lucit_collector.py](https://github.com/LUCIT-Development/check_lucit_collector.py) is an open 
 source project which welcomes contributions which can be anything from simple documentation fixes to new features. To 
 contribute follow 
 [this guide](https://github.com/LUCIT-Development/check_lucit_collector.py/blob/master/CONTRIBUTING.md).
