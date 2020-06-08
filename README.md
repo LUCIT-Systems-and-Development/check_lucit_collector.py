@@ -23,3 +23,5 @@ Used by:
 
 If you like the project, please [![star](https://s3.gifyu.com/images/stard237b3003af9f9a9.png)](https://github.com/LUCIT-Development/check_lucit_collector.py/stargazers) it on 
 [GitHub](https://github.com/LUCIT-Development/check_lucit_collector.py)! 
+
+Made by [LUCIT](https://www.lucit.co)
