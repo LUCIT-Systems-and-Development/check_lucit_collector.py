@@ -47,12 +47,7 @@ def status_unkown():
 
 
 parser = ArgumentParser(formatter_class=argparse.RawDescriptionHelpFormatter,
-                        description=textwrap.dedent("ICINGA/Nagios compatible check_command for the UNICORN Monitoring "
-                                                    "API https://github.com/oliver-zehentleitner/check_unicorn_monito"
-                                                    "ring_api\r\n\r\nexamples:\r\n./check_unicorn_monitoring_api.py\r\n"
-                                                    "./check_unicorn_monitoring_api.py -H 192.168.1.10 -P 5000\r\n"
-                                                    "./check_binance_websocket_api_manager.py"
-                                                    " -V"))
+                        description=textwrap.dedent("ICINGA/Nagios compatible check_command to collect data from REST APIs"))
 parser.add_argument('-H', '--hostname', dest='hostname', help='host name or ip address (default: 127.0.0.1)',
                     default="127.0.0.1")
 parser.add_argument('-P', '--port', dest='port', help='port number (default: 64201)', default=64201)
@@ -62,7 +57,7 @@ parser.add_argument('-V', '--version', dest='version', help='print version infor
 parsed_args = parser.parse_args()
 
 if parsed_args.version is True:
-    print("check_unicorn_monitoring_api.py " + VERSION + " for ICINGA/Nagios by UNICORN Data Analysis 2019 - " +
+    print("check_lucit_collector.py " + VERSION + " for ICINGA/Nagios by LUCIT 2020 - " +
           time.strftime("%Y"))
     exit(0)
 
