@@ -23,14 +23,3 @@ Used by:
 
 If you like the project, please [![star](https://s3.gifyu.com/images/stard237b3003af9f9a9.png)](https://github.com/LUCIT-Development/check_lucit_collector.py/stargazers) it on 
 [GitHub](https://github.com/LUCIT-Development/check_lucit_collector.py)! 
-
-## Contributing
-[check_lucit_collector.py](https://github.com/LUCIT-Development/check_lucit_collector.py) is an open 
-source project which welcomes contributions which can be anything from simple documentation fixes to new features. To 
-contribute follow 
-[this guide](https://github.com/LUCIT-Development/check_lucit_collector.py/blob/master/CONTRIBUTING.md).
- 
-### Contributors
-[![Contributors](https://contributors-img.web.app/image?repo=LUCIT-Development/check_lucit_collector.py)](https://github.com/LUCIT-Development/check_lucit_collector.py/graphs/contributors)
-
-We ![love](https://s3.gifyu.com/images/heartae002231c41d8a80.png) open source!
