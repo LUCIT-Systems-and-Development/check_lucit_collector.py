@@ -1,10 +1,7 @@
-[![GitHub release](https://img.shields.io/github/release/oliver-zehentleitner/check_unicorn_monitoring_api.svg)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/releases/latest)
-[![GitHub](https://img.shields.io/github/license/oliver-zehentleitner/check_unicorn_monitoring_api.svg?color=blue)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/LUCIT-Development/check_lucit_collector.py.svg)](https://github.com/LUCIT-Development/check_lucit_collector.py/releases/latest)
+[![GitHub](https://img.shields.io/github/license/LUCIT-Development/check_lucit_collector.py.svg?color=blue)](https://github.com/LUCIT-Development/check_lucit_collector.py/blob/master/LICENSE)
 [![python 3](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/downloads/)
-[![stable](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://github.com/oliver-zehentleitner/check_unicorn_monitoring_api/issues)
-[![Telegram](https://img.shields.io/badge/chat-telegram-red.svg)](https://t.me/unicorndevs)
-[![Donations/week](http://img.shields.io/liberapay/receives/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
-[![Patrons](http://img.shields.io/liberapay/patrons/oliver-zehentleitner.svg?logo=liberapay")](https://liberapay.com/oliver-zehentleitner/donate)
+[![stable](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://github.com/LUCIT-Development/check_lucit_collector.py/issues)
 
 # check_unicorn_monitoring_api
 [ICINGA](https://icinga.com)/[Nagios](https://www.nagios.com) check_command 
