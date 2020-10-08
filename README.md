@@ -21,7 +21,8 @@ Run `./check_lucit_collector.py -h` for further information!
 Used by:
 - [UNICORN Binance WebSocket API](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api) ([Wiki](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api/wiki/UNICORN-Monitoring-API-Service))
 
-If you like the project, please [![star](https://s3.gifyu.com/images/stard237b3003af9f9a9.png)](https://github.com/LUCIT-Development/check_lucit_collector.py/stargazers) it on 
+If you like the project, please 
+[![star](https://raw.githubusercontent.com/LUCIT-Development/check_lucit_collector.py/master/images/misc/star.png)](https://github.com/LUCIT-Development/check_lucit_collector.py/stargazers) it on 
 [GitHub](https://github.com/LUCIT-Development/check_lucit_collector.py)! 
 
 Made by [LUCIT](https://www.lucit.co)
