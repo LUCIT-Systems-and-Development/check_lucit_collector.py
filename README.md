@@ -19,10 +19,10 @@ Install dependencies with `python -m pip install -r requirements.txt`!
 Run `./check_lucit_collector.py -h` for further information!
 
 Used by:
-- [UNICORN Binance WebSocket API](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api) ([Wiki](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api/wiki/UNICORN-Monitoring-API-Service))
+- [UNICORN Binance WebSocket API](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api) ([Wiki](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/wiki/UNICORN-Monitoring-API-Service))
 
 If you like the project, please 
-[![star](https://raw.githubusercontent.com/LUCIT-Development/check_lucit_collector.py/master/images/misc/star.png)](https://github.com/LUCIT-Development/check_lucit_collector.py/stargazers) it on 
-[GitHub](https://github.com/LUCIT-Development/check_lucit_collector.py)! 
+[![star](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/check_lucit_collector.py/master/images/misc/star.png)](https://github.com/LUCIT-Development/check_lucit_collector.py/stargazers) it on 
+[GitHub](https://github.com/LUCIT-Systems-and-Development/check_lucit_collector.py)! 
 
-Made by [LUCIT](https://www.lucit.co)
+Made by [LUCIT](https://www.lucit.tech)
